@@ -1,5 +1,9 @@
 # SOSC Python Task
 
+Hello Techies, welcome to SOSC Python Task. Here we will provide you task and you have to finish the task and progress ahead.
+
+**[Register](https://github.com/HeimanPictures/SOSC-Python/tree/main/registration)**, if you have not yet.
+
 ## Tasks
 
 ### July
