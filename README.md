@@ -8,7 +8,7 @@ Hello Techies, welcome to SOSC Python Task. Here we will provide you task and yo
 
 ### July
 
-- **[Task 1](https://github.com/HeimanPictures/SOSC-Python/blob/main/July/Task%201/README.md)**
+- **[Task 1](https://github.com/HeimanPictures/SOSC-Python/blob/main/July/Task1/README.md)**
 
 ## Contact
 
