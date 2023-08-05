@@ -24,7 +24,7 @@ def decode(string,k):
         newstring += chr(val)
      
     print("The decoded message is "+newstring)
-print("Type of encode to encrypt and decode to decrypt:")
+print("Type encode to encrypt and decode to decrypt:")
 type = input()
 print("type message: ")
 stri = input()
