@@ -19,10 +19,20 @@ for i in range(row):
     for j in range(i):
         print(chr(c),end = ' ')
         c+=1
-    
-    print()
+    print('')
 
-for i in range(row,1):
-    for j in range(i): 
-        print('*',end = ' ')
+for i in range(row):
+     print(" "*i+"* "*(row-i))
+
+for i in range(3):
+    print(" "*(3-i)+"* "*i)
+for i in range(3,0,-1):
+    print(" "*(3-i)+"* "*i)
+print()
+for i in range(4,0,-1):
+    print(" "*(i)+"*"*(5-i))
+print()
+for i in range(4):
+    for j in range(1,5-i):
+        print(j,end =' ')
     print()
